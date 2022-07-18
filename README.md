@@ -75,13 +75,13 @@ Estos componentes son prescindibles, puesto que se desea entender de manera amen
 
 [![Protoboard.jpg](https://i.postimg.cc/BvVVFxw1/Protoboard.jpg)](https://postimg.cc/f3YCn0sw)
 
-### CIRCUITO DIMMER BASE
+#### CIRCUITO DIMMER BASE
 
 [![Esquema-Dimmer.png](https://i.postimg.cc/D0kFrVYs/Esquema-Dimmer.png)](https://postimg.cc/dkBzFfFt)
 
 Tomado de electronicworld.com.mx
 
-### FUNCIONAMIENTO
+#### FUNCIONAMIENTO
 
 Con el circuito montado, podremos ver que si el potenciómetro se encuentra en su máxima resistencia, el flujo de corriente no es suficiente como para cargar al capacitor, una vez rotemos y disminuyamos la resistencia del potenciómetro la corriente podrá fluir hasta el capacitor, y aquí comienzan los procesos esenciales:
 
@@ -95,6 +95,20 @@ Con el circuito montado, podremos ver que si el potenciómetro se encuentra en s
 8) El voltaje de la corriente alterna se hará 0V y el TRIAC se abrirá.
 
 Este proceso se repetirá siempre y cuando el potenciómetro permita un flujo de corriente adecuado y suficiente como para que el capacitor se pueda cargar.
+
+#### RESULTADOS
+
+[![foco-baja-p.jpg](https://i.postimg.cc/nVYxNhR9/foco-baja-p.jpg)](https://postimg.cc/Bt6RK4GJ)
+
+La primera fotografía resulta de mover el potenciómetro a penas disminuyendo la resistencia, logrando que el foco se encienda con muy baja intensidad.
+
+[![foco-media-p.jpg](https://i.postimg.cc/HsxN3Yfg/foco-media-p.jpg)](https://postimg.cc/K46Q82Gq)
+
+La segunda fotografía corresponde a seguir disminuyendo la resistencia por medio del potenciómetro obteniendo un mayor flujo de corriente.
+
+[![foco-alta-p.jpg](https://i.postimg.cc/gJzsJ4pW/foco-alta-p.jpg)](https://postimg.cc/bG5kVxdC)
+
+La tercera imagen hace referencia a una resistencia casi nula por parte del potenciómetro, demostrando que estamos haciendo uso de una buena parte de la corriente eléctrica en el circuito.
 
 ### CONCLUSIONES
 
