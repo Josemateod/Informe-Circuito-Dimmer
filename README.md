@@ -75,6 +75,16 @@ Estos componentes son prescindibles, puesto que se desea entender de manera amen
 
 [![Protoboard.jpg](https://i.postimg.cc/BvVVFxw1/Protoboard.jpg)](https://postimg.cc/f3YCn0sw)
 
+#### PRECIOS
+
+Triac BT136 - $0,65.
+DIAC DB3 - $0,25
+Capacitor 104/630V - $0,70
+Potenciometro 500K - $0,45
+Resistencia 10K - $0,05
+Resistencia 100 Ohm - $0,05
+Foco, cables y base - $2,00
+
 #### CIRCUITO DIMMER BASE
 
 [![Esquema-Dimmer.png](https://i.postimg.cc/D0kFrVYs/Esquema-Dimmer.png)](https://postimg.cc/dkBzFfFt)
