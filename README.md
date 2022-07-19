@@ -128,6 +128,10 @@ La segunda fotografía corresponde a seguir disminuyendo la resistencia por medi
 
 La tercera imagen hace referencia a una resistencia casi nula por parte del potenciómetro, demostrando que estamos haciendo uso de una buena parte de la corriente eléctrica en el circuito.
 
+### VIDEO EXPLICANDO A DETALLE
+
+https://youtu.be/kG8ZdWwhivc
+
 ### CONCLUSIONES
 
 Los conocimientos que se requieren para poder entender el funcionamiento del circuito Dimmer en la corriente alterna puede ser algo complejo en un principio, pero indagando de manera correcta el comportamiento de cada componente, las fórmulas que se necesitaron para poder determinar un circuito tan necesario en nuestros días para poder controlar la potencia que consumimos, la electricidad se encuentra en todos lados y es imprescindible para facilitar la vida y optimizar todo aquello que usamos para obtener el máximo rendimiento.
