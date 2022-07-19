@@ -78,12 +78,20 @@ Estos componentes son prescindibles, puesto que se desea entender de manera amen
 #### PRECIOS
 
 Triac BT136 - $0,65.
+
 DIAC DB3 - $0,25
+
 Capacitor 104/630V - $0,70
+
 Potenciometro 500K - $0,45
+
 Resistencia 10K - $0,05
+
 Resistencia 100 Ohm - $0,05
-Foco, cables y base - $2,00
+
+Foco, cable para luz y base - $2,00
+
+Protoboard - $5,00
 
 #### CIRCUITO DIMMER BASE
 
